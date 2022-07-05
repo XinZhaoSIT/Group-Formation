@@ -88,7 +88,7 @@ To meet professors or users need, they should pick a model based on their criter
 - If professor looks for groups that at least one student has required skill, at least one female, one male, and one international student
   - autoencoder model 3.
 
-## Model implementation
+## Model Implementation
 
 ![image](https://user-images.githubusercontent.com/73065775/177410866-190a0d3d-9ed6-40ab-8ce4-69b18401f677.png)
 
